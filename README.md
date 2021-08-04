@@ -14,7 +14,7 @@ _This website describes the offerings of a non-existent resort. Users can browse
 
 ### Setup/Installation Requirements
 
-* _Clone this repository to your desktop_
+* _Clone this repository to an empty folder or to your desktop. Instructions for cloning can be found [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)._
 * _Navigate to the top level of the directory_
 * _Open index.html in your browser_
 
