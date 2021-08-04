@@ -1,6 +1,6 @@
 # Resort Website
 
-By Melissa Schatz-Miller and Brandon Eads
+By Melissa Schatz-Miller and Brandon Eads  
 A student project practicing HTML and CSS.
 
 ### Technologies Used
